@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ikhsandi-Ramadani
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning at Alauddin State Islamic University
+- 🌱 I’m alumnus at Alauddin State Islamic University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
